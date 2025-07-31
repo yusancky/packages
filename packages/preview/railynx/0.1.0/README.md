@@ -10,7 +10,7 @@
     </a>
   </td>
   <td>
-    <a href=https://github.com/yusancky/railynx/blob/0.1.0/gallery/example-2.typ">
+    <a href="https://github.com/yusancky/railynx/blob/0.1.0/gallery/example-2.typ">
       <img src="gallery/example-2.png" width="300px">
     </a>
   </td>
