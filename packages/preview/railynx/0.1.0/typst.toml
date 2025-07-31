@@ -10,4 +10,4 @@ keywords = ["rail", "railway", "track diagram", "track network"]
 categories = ["visualization"]
 disciplines = ["transportation", "engineering", "geography"]
 compiler = "0.13.0"
-exclude = [".github", "test.typ"]
+exclude = [".github", "gallery", "test.typ"]

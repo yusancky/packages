@@ -5,13 +5,13 @@
 <table>
 <tr>
   <td>
-    <a href="https://github.com/yusancky/railynx/blob/v0.1.0/test.typ#L7">
-      <img src="gallery/example-1.png" width="350px">
+    <a href="https://github.com/yusancky/railynx/blob/0.1.0/test.typ#L7">
+      <img src="gallery/example-1.png" width="300px">
     </a>
   </td>
   <td>
-    <a href=https://github.com/yusancky/railynx/blob/v0.1.0/test.typ#L11-L26">
-      <img src="gallery/example-2.png" width="350px">
+    <a href=https://github.com/yusancky/railynx/blob/0.1.0/test.typ#L11-L26">
+      <img src="gallery/example-2.png" width="300px">
     </a>
   </td>
 </tr>
